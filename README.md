@@ -118,24 +118,6 @@ Developer → GitHub → CI/CD Pipeline → Security Scan → Docker Image → E
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Arudra20&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=Arudra's%20GitHub%20Activity&cache_seconds=86400" 
-    alt="Arudra's GitHub Activity" 
-    height="170"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arudra20&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=html,css&custom_title=Most%20Used%20Languages&cache_seconds=86400" 
-    alt="Most Used Languages" 
-    height="170"
-  />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - Building advanced **AWS EKS DevOps portfolio projects**
