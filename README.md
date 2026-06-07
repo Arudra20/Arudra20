@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer · Platform Engineering · Hyderabad, India</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/arudrasunkari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Arudra20&style=flat&color=blue" alt="Profile views"/>
