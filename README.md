@@ -111,3 +111,20 @@ Hybrid AWS DevOps project combining **EKS, Lambda, Terraform, Helm, ArgoCD, GitH
 Developer → GitHub → CI/CD Pipeline → Security Scan → Docker Image → ECR
         → Helm Deployment → Amazon EKS → ALB Ingress → Observability
         → Metrics, Logs, Alerts, Dashboards, Rollback & Reliability
+
+---
+
+## 📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arudra20&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=Arudra's%20GitHub%20Activity&cache_seconds=86400" alt="Arudra's GitHub stats" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arudra20&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=html,css&custom_title=Most%20Used%20Languages&cache_seconds=86400" alt="Top languages" height="170" />
+</p>
+
+📫 Let's Connect
+
+I am open to opportunities in:
+
+AWS DevOps Engineer | Cloud DevOps Engineer | Platform Engineer
+Kubernetes Engineer | SRE | Terraform DevOps Engineer | CI/CD Engineer
+
+Feel free to connect with me on LinkedIn or explore my DevOps projects here on GitHub.
