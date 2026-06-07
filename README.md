@@ -1,86 +1,113 @@
 <h1 align="center">Hey, I'm Arudra 👋</h1>
-<h3 align="center">DevOps Engineer · Platform Engineering · Hyderabad, India</h3>
+
+<h3 align="center">
+  AWS DevOps Engineer | EKS | Terraform | Kubernetes | CI/CD | Platform Engineering
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arudrasunkari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <b>4+ years of experience building cloud-native DevOps platforms, Kubernetes deployments, CI/CD automation, and observability solutions on AWS.</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Arudra20&style=flat&color=blue" alt="Profile views"/>
 </p>
 
 ---
 
-I build **production-grade cloud platforms** on AWS — from Terraform-provisioned EKS clusters with layered state management, to GitOps-driven deployments with ArgoCD, to full observability stacks with Prometheus, Grafana, and Loki.
+## 👨‍💻 About Me
 
-My focus is on **platform reliability, CI/CD automation, and DevSecOps** — shipping infrastructure that teams can trust.
+I am an **AWS DevOps Engineer** focused on building reliable, scalable, and automation-driven cloud platforms.
+
+My work revolves around **Amazon EKS, Kubernetes, Terraform, Docker, Helm, Jenkins, GitHub Actions, GitOps, DevSecOps, and Observability**. I have hands-on experience supporting cloud-native microservices, automating infrastructure delivery, improving deployment reliability, and setting up monitoring for production-style workloads.
+
+I enjoy solving problems around:
+
+- 🚀 **CI/CD automation** for containerized applications
+- ☁️ **AWS infrastructure provisioning** using Terraform
+- ⚙️ **Kubernetes and EKS platform operations**
+- 📦 **Helm-based application deployments**
+- 🔐 **DevSecOps gates** using Trivy, SonarQube, IAM, and secrets management
+- 📊 **Observability** using Prometheus, Grafana, CloudWatch, Dynatrace, and Loki
+- 🧩 **Platform reliability, release automation, and production troubleshooting**
 
 ---
 
-## 🛠 Tech Stack
+## 🏆 Impact Highlights
+
+- Built and supported CI/CD workflows for **50+ microservices**
+- Improved release efficiency by up to **40%** through pipeline automation
+- Reduced deployment misconfigurations by around **30%** using reusable Helm standards
+- Supported cloud migration and modernization of **15+ legacy applications**
+- Helped optimize infrastructure cost by around **25%**
+- Worked on production-style monitoring, alerting, deployment rollback, and reliability practices
+
+---
+
+## 🛠️ Tech Stack
 
 | Domain | Tools & Services |
 |---|---|
-| **Cloud** | AWS (EKS, ECR, EFS, IAM, VPC, S3, CloudWatch) |
-| **IaC** | Terraform, Helm, Kustomize |
-| **CI/CD** | GitHub Actions, Jenkins (HA on EKS) |
+| **Cloud** | AWS, EKS, EC2, ECR, S3, IAM, VPC, Route 53, CloudWatch, Lambda |
 | **Containers** | Docker, Kubernetes, Amazon EKS |
-| **Observability** | Prometheus, Grafana, Loki, Promtail, k6 |
+| **Infrastructure as Code** | Terraform, Helm, Kustomize |
+| **CI/CD** | GitHub Actions, Jenkins |
 | **GitOps** | ArgoCD |
-| **DevSecOps** | Trivy, SonarQube, OIDC (keyless AWS auth) |
-| **Artifact Mgmt** | Amazon ECR, Nexus |
-| **Languages** | HCL, Bash, Python, PowerShell |
+| **Observability** | Prometheus, Grafana, CloudWatch, Dynatrace, Loki, Promtail, k6 |
+| **DevSecOps** | Trivy, SonarQube, IAM Least Privilege, OIDC, Secrets Management |
+| **Artifact Management** | Amazon ECR, Nexus |
+| **Scripting & OS** | Linux, Bash, Python, PowerShell |
+| **Version Control** | Git, GitHub |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured DevOps Projects
 
-### 🔧 [eks-jenkins-ha-platform](https://github.com/Arudra20/Jenkins_HA_Setup_on_EKS)
-Production-grade Jenkins HA on Amazon EKS with multi-layer Terraform state, EFS persistent storage, GitHub Actions OIDC, and Cluster Autoscaler. Multi-env (dev/stage/prod) Helm values.
+### 🔧 [Jenkins HA Platform on EKS](https://github.com/Arudra20/Jenkins_HA_Setup_on_EKS)
 
-`Terraform` `EKS` `Jenkins` `Helm` `EFS` `GitHub Actions` `OIDC`
+Production-style Jenkins platform deployed on **Amazon EKS** with Terraform-managed infrastructure, persistent storage, Kubernetes-based agents, Helm deployment, GitHub Actions integration, and autoscaling support.
 
----
-
-### 📊 [eks-observability-stack](https://github.com/Arudra20/Observability-EKS)
-Full observability for 3-tier Spring Boot microservices on EKS — Prometheus, Grafana, Loki/Promtail, k6 load tests, ServiceMonitors, HPA, PDB, and ArgoCD GitOps deployment.
-
-`Prometheus` `Grafana` `Loki` `ArgoCD` `EKS` `Spring Boot` `k6`
+`AWS` `EKS` `Terraform` `Jenkins` `Helm` `Kubernetes` `EFS` `GitHub Actions` `OIDC`
 
 ---
 
-### ⚙️ [springboot-eks-cicd-github-actions](https://github.com/Arudra20/eks-end-to-end-pipeline)
-End-to-end CI/CD pipeline: GitHub Actions → Maven build → Trivy security scan → ECR push → Helm deploy to EKS. Includes HPA, ALB Ingress, rolling updates, and Helm rollback.
+### 📊 [EKS Microservices Observability Stack](https://github.com/Arudra20/Observability-EKS)
 
-`GitHub Actions` `Trivy` `ECR` `Helm` `EKS` `Spring Boot` `OIDC`
+Observability-focused platform for multi-service Spring Boot applications on **Amazon EKS**, including Prometheus, Grafana, Loki, Promtail, k6 load testing, HPA, PDB, ServiceMonitor configuration, and ArgoCD-based GitOps deployment.
 
----
-
-### 🔐 [jenkins-eks-devsecops-pipeline](https://github.com/Arudra20/full-stack-blogging-app)
-Jenkins CI/CD with SonarQube code quality gates, Trivy vulnerability scanning, Nexus artifact management, Docker containerization, and EKS deployment with Prometheus + Grafana monitoring.
-
-`Jenkins` `SonarQube` `Trivy` `Nexus` `Docker` `EKS` `Prometheus`
+`EKS` `Spring Boot` `Prometheus` `Grafana` `Loki` `ArgoCD` `Helm` `k6` `Observability`
 
 ---
 
-## 📈 GitHub Stats
+### ⚙️ [Spring Boot EKS CI/CD with GitHub Actions](https://github.com/Arudra20/eks-end-to-end-pipeline)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Arudra20&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;cache_seconds=86400" 
-    alt="Arudra's GitHub stats" 
-    height="160"
-  />
+End-to-end DevOps pipeline for Spring Boot applications using **GitHub Actions, Maven, Docker, Trivy, Amazon ECR, Helm, and EKS**. Includes ALB Ingress, HPA, rolling updates, and rollback-ready Helm deployment flow.
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arudra20&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;langs_count=6&amp;cache_seconds=86400" 
-    alt="Top languages" 
-    height="160"
-  />
-</p>
+`GitHub Actions` `Docker` `Trivy` `ECR` `Helm` `EKS` `Spring Boot` `CI/CD`
 
 ---
 
-## 📫 Let's Connect
+### 🔐 [Jenkins DevSecOps Pipeline for EKS](https://github.com/Arudra20/full-stack-blogging-app)
 
-I'm open to AWS DevOps / Cloud Platform / Platform Engineering roles.
-Drop me a message on **[LinkedIn](https://www.linkedin.com/in/arudrasunkari)** or reach out via GitHub.
+Full-stack DevSecOps pipeline using Jenkins, SonarQube quality gates, Trivy image scanning, Nexus artifact management, Docker containerization, Kubernetes deployment, and Prometheus/Grafana monitoring.
+
+`Jenkins` `SonarQube` `Trivy` `Nexus` `Docker` `Kubernetes` `EKS` `Prometheus`
+
+---
+
+### ☁️ AWS EKS + Lambda GitOps Observability
+
+Hybrid AWS DevOps project combining **EKS, Lambda, Terraform, Helm, ArgoCD, GitHub Actions, and observability tooling** to demonstrate cloud-native deployment automation and event-driven AWS integration.
+
+`AWS` `EKS` `Lambda` `Terraform` `Helm` `ArgoCD` `GitHub Actions` `Observability`
+
+---
+
+## 🧭 Platform Engineering Focus
+
+```text
+Developer → GitHub → CI/CD Pipeline → Security Scan → Docker Image → ECR
+        → Helm Deployment → Amazon EKS → ALB Ingress → Observability
+        → Metrics, Logs, Alerts, Dashboards, Rollback & Reliability
