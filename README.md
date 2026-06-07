@@ -65,8 +65,17 @@ Jenkins CI/CD with SonarQube code quality gates, Trivy vulnerability scanning, N
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arudra20&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arudra20&layout=compact&hide_border=true&langs_count=6" alt="Top languages" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Arudra20&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;cache_seconds=86400" 
+    alt="Arudra's GitHub stats" 
+    height="160"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arudra20&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;langs_count=6&amp;cache_seconds=86400" 
+    alt="Top languages" 
+    height="160"
+  />
 </p>
 
 ---
@@ -74,4 +83,4 @@ Jenkins CI/CD with SonarQube code quality gates, Trivy vulnerability scanning, N
 ## 📫 Let's Connect
 
 I'm open to AWS DevOps / Cloud Platform / Platform Engineering roles.
-Drop me a message on **[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)** or reach out via GitHub.
+Drop me a message on **[LinkedIn](https://www.linkedin.com/in/arudrasunkari)** or reach out via GitHub.
