@@ -1,16 +1,19 @@
 <h1 align="center">Hey, I'm Arudra 👋</h1>
 
 <h3 align="center">
-  AWS DevOps Engineer | EKS | Terraform | Kubernetes | CI/CD | Platform Engineering
+  AWS DevOps Engineer | Cloud DevOps | Platform Engineering | Kubernetes | Terraform | CI/CD
 </h3>
 
 <p align="center">
-  <b>4+ years of experience building cloud-native DevOps platforms, Kubernetes deployments, CI/CD automation, and observability solutions on AWS.</b>
+  <b>Building production-style AWS platforms with EKS, Terraform, Kubernetes, Helm, Jenkins, GitHub Actions, GitOps, DevSecOps, and Observability.</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Arudra20">
+    <img src="https://img.shields.io/badge/GitHub-Arudra20-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Arudra20&style=flat&color=blue" alt="Profile views"/>
 </p>
@@ -21,17 +24,17 @@
 
 I am an **AWS DevOps Engineer** focused on building reliable, scalable, and automation-driven cloud platforms.
 
-My work revolves around **Amazon EKS, Kubernetes, Terraform, Docker, Helm, Jenkins, GitHub Actions, GitOps, DevSecOps, and Observability**. I have hands-on experience supporting cloud-native microservices, automating infrastructure delivery, improving deployment reliability, and setting up monitoring for production-style workloads.
+My work includes provisioning AWS infrastructure with **Terraform**, deploying containerized workloads on **Amazon EKS**, building **CI/CD pipelines**, managing **Helm-based deployments**, implementing **DevSecOps checks**, and setting up **observability** using Prometheus, Grafana, CloudWatch, Loki, and Dynatrace.
 
-I enjoy solving problems around:
+I enjoy solving real-world DevOps problems around:
 
-- 🚀 **CI/CD automation** for containerized applications
-- ☁️ **AWS infrastructure provisioning** using Terraform
-- ⚙️ **Kubernetes and EKS platform operations**
-- 📦 **Helm-based application deployments**
-- 🔐 **DevSecOps gates** using Trivy, SonarQube, IAM, and secrets management
-- 📊 **Observability** using Prometheus, Grafana, CloudWatch, Dynatrace, and Loki
-- 🧩 **Platform reliability, release automation, and production troubleshooting**
+- 🚀 CI/CD automation for containerized applications
+- ☁️ AWS infrastructure provisioning using Terraform
+- ⚙️ Kubernetes and Amazon EKS platform operations
+- 📦 Helm-based application deployments
+- 🔐 DevSecOps with Trivy, SonarQube, IAM, OIDC, and secrets management
+- 📊 Observability using Prometheus, Grafana, CloudWatch, Loki, and Dynatrace
+- 🧩 Platform reliability, rollback strategy, autoscaling, and production troubleshooting
 
 ---
 
@@ -40,9 +43,9 @@ I enjoy solving problems around:
 - Built and supported CI/CD workflows for **50+ microservices**
 - Improved release efficiency by up to **40%** through pipeline automation
 - Reduced deployment misconfigurations by around **30%** using reusable Helm standards
-- Supported cloud migration and modernization of **15+ legacy applications**
+- Supported modernization and cloud migration of **15+ legacy applications**
 - Helped optimize infrastructure cost by around **25%**
-- Worked on production-style monitoring, alerting, deployment rollback, and reliability practices
+- Worked on monitoring, alerting, rollback, autoscaling, and reliability-focused deployments
 
 ---
 
@@ -97,7 +100,7 @@ Full-stack DevSecOps pipeline using Jenkins, SonarQube quality gates, Trivy imag
 
 ---
 
-### ☁️ AWS EKS + Lambda GitOps Observability
+### ☁️ [AWS EKS + Lambda GitOps Observability](https://github.com/Arudra20/EKS_Lambda)
 
 Hybrid AWS DevOps project combining **EKS, Lambda, Terraform, Helm, ArgoCD, GitHub Actions, and observability tooling** to demonstrate cloud-native deployment automation and event-driven AWS integration.
 
@@ -105,26 +108,58 @@ Hybrid AWS DevOps project combining **EKS, Lambda, Terraform, Helm, ArgoCD, GitH
 
 ---
 
-## 🧭 Platform Engineering Focus
+## 🧭 Platform Engineering Workflow
 
 ```text
 Developer → GitHub → CI/CD Pipeline → Security Scan → Docker Image → ECR
         → Helm Deployment → Amazon EKS → ALB Ingress → Observability
         → Metrics, Logs, Alerts, Dashboards, Rollback & Reliability
+```
 
 ---
 
-## 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arudra20&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=Arudra's%20GitHub%20Activity&cache_seconds=86400" alt="Arudra's GitHub stats" height="170" />
+## 📈 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arudra20&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=html,css&custom_title=Most%20Used%20Languages&cache_seconds=86400" alt="Top languages" height="170" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Arudra20&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=Arudra's%20GitHub%20Activity&cache_seconds=86400" 
+    alt="Arudra's GitHub Activity" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arudra20&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=html,css&custom_title=Most%20Used%20Languages&cache_seconds=86400" 
+    alt="Most Used Languages" 
+    height="170"
+  />
 </p>
 
-📫 Let's Connect
+---
+
+## 🎯 Current Focus
+
+- Building advanced **AWS EKS DevOps portfolio projects**
+- Improving **Terraform infrastructure automation**
+- Strengthening **Kubernetes troubleshooting and platform reliability**
+- Implementing **GitOps workflows with ArgoCD**
+- Enhancing **observability using Prometheus, Grafana, CloudWatch, Loki, and Dynatrace**
+- Practicing **DevSecOps with Trivy, SonarQube, IAM, OIDC, and secure CI/CD**
+
+---
+
+## 📫 Let's Connect
 
 I am open to opportunities in:
 
+```text
 AWS DevOps Engineer | Cloud DevOps Engineer | Platform Engineer
 Kubernetes Engineer | SRE | Terraform DevOps Engineer | CI/CD Engineer
+```
 
-Feel free to connect with me on LinkedIn or explore my DevOps projects here on GitHub.
+Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/arudrasunkari)** or explore my DevOps projects here on GitHub.
+
+---
+
+<p align="center">
+  <b>Cloud Infrastructure • Kubernetes Platforms • CI/CD Automation • DevSecOps • Observability</b>
+</p>
